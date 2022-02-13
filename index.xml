@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aidan Sochowski</title>
+    <link>http://sochow.ski/</link>
+    <description>Recent content on Aidan Sochowski</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Aidan Sochowski</copyright><atom:link href="http://sochow.ski/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://sochow.ski/about/</link>
+      <pubDate>Sat, 12 Feb 2022 17:41:22 -0600</pubDate>
+      
+      <guid>http://sochow.ski/about/</guid>
+      <description>About me I&amp;rsquo;m Aidan, a third year undergraduate at the University of Illinois at Urbana-Champaign studying computer science and statistics. I&amp;rsquo;m originally from the Chicagoland area, I&amp;rsquo;ve worked in multiple research groups on campus, and I&amp;rsquo;ve previously done internships at AARP and Amazon. I&amp;rsquo;m mainly interested in working with distributed systems, video, or computer vision, however I&amp;rsquo;m open to most software engineering roles. I&amp;rsquo;ll be looking for new grad software engineer roles once I graduate in May 2023.</description>
+    </item>
+    
+  </channel>
+</rss>
