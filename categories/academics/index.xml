@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aidan Sochowski</title>
-    <link>http://sochow.ski/</link>
-    <description>Recent content on Aidan Sochowski</description>
+    <title>academics on Aidan Sochowski</title>
+    <link>http://sochow.ski/categories/academics/</link>
+    <description>Recent content in academics on Aidan Sochowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aidan Sochowski</copyright>
-    <lastBuildDate>Sat, 12 Feb 2022 18:25:38 -0600</lastBuildDate><atom:link href="http://sochow.ski/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 18:25:38 -0600</lastBuildDate><atom:link href="http://sochow.ski/categories/academics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I&#39;m Taking a Break From School in 2022</title>
       <link>http://sochow.ski/posts/breakfromschool/</link>
@@ -15,15 +15,6 @@
       
       <guid>http://sochow.ski/posts/breakfromschool/</guid>
       <description>Disclaimer: The title of this post is somewhat misleading, as I am still technically enrolled as a full-time student, but I am taking the absolute bare minimum amount to remain eligible for my scholarships that require me to stay a full-time student (I still don&amp;rsquo;t even understand the rules given I&amp;rsquo;d be saving the university money by not taking classes, but I digress). By no means am I saying that everyone should do this, however I think it&amp;rsquo;s the best decision for some people under some super specific conditions.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://sochow.ski/about/</link>
-      <pubDate>Sat, 12 Feb 2022 17:41:22 -0600</pubDate>
-      
-      <guid>http://sochow.ski/about/</guid>
-      <description>About me I&amp;rsquo;m Aidan, a third year undergraduate at the University of Illinois at Urbana-Champaign studying computer science and statistics. I&amp;rsquo;m originally from the Chicagoland area, I&amp;rsquo;ve worked in multiple research groups on campus, and I&amp;rsquo;ve previously done internships at AARP and Amazon. I&amp;rsquo;m mainly interested in working with distributed systems, video, or computer vision, however I&amp;rsquo;m open to most software engineering roles. I&amp;rsquo;ll be looking for new grad software engineer roles once I graduate in May 2023.</description>
     </item>
     
   </channel>

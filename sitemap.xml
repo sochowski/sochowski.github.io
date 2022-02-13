@@ -2,12 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sochow.ski/about/</loc>
-    <lastmod>2022-02-12T17:41:22-06:00</lastmod>
+    <loc>http://sochow.ski/categories/academics/</loc>
+    <lastmod>2022-02-12T18:25:38-06:00</lastmod>
   </url><url>
     <loc>http://sochow.ski/</loc>
+    <lastmod>2022-02-12T18:25:38-06:00</lastmod>
   </url><url>
     <loc>http://sochow.ski/categories/</loc>
+    <lastmod>2022-02-12T18:25:38-06:00</lastmod>
+  </url><url>
+    <loc>http://sochow.ski/posts/</loc>
+    <lastmod>2022-02-12T18:25:38-06:00</lastmod>
+  </url><url>
+    <loc>http://sochow.ski/posts/breakfromschool/</loc>
+    <lastmod>2022-02-12T18:25:38-06:00</lastmod>
+  </url><url>
+    <loc>http://sochow.ski/about/</loc>
+    <lastmod>2022-02-12T17:41:22-06:00</lastmod>
   </url><url>
     <loc>http://sochow.ski/tags/</loc>
   </url>

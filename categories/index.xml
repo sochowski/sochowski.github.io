@@ -6,6 +6,16 @@
     <description>Recent content in Categories on Aidan Sochowski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Aidan Sochowski</copyright><atom:link href="http://sochow.ski/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Aidan Sochowski</copyright>
+    <lastBuildDate>Sat, 12 Feb 2022 18:25:38 -0600</lastBuildDate><atom:link href="http://sochow.ski/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>academics</title>
+      <link>http://sochow.ski/categories/academics/</link>
+      <pubDate>Sat, 12 Feb 2022 18:25:38 -0600</pubDate>
+      
+      <guid>http://sochow.ski/categories/academics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
